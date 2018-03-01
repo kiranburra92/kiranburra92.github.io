@@ -13,11 +13,13 @@ Osmania University - Hyderabad, India
 ### EXPERIENCE
 
 **Teaching Assistant - University of Houston – Houston, USA**                                     March 2017 to present
-- Assisted professor in designing assignments and projects for Introduction to C++ and Object-Oriented Application Programming using C++ courses to guide undergraduates.
+- Designing and grading the assignments in Introduction to C++, Unix and Object-oriented application programming using C++ courses along with faculty.
+- Actively participated in object-oriented programming research.
 
 **Software Engineering Intern - NetIQ, Micro Focus – Houston, USA**                               May 2017 to August 2017
 - Converted PostgreSQL queries to run efficiently on Oracle database and improved query performance.
 - Involved in creating Business Intelligence tools to streamline the database report development process and add functionality, using a custom JavaScript tool that accepted JSON and outputs XML report display.
+- Used selenium for testing the access management webpage and using java and JavaScript.
 
 **Project Engineer - Wipro Technologies Ltd – Hyderabad, India**                                  August 2014 to July 2016
 - Performed full life cycle development of complex commercial enterprise applications leveraging object-oriented Java and
@@ -43,37 +45,16 @@ loosely coupled manner by operating interface programming.
 visualization.
 - Applied K-means clustering to segment the images for both RGB and grayscale images.
 
+***Deploying Hadoop in virtual machine, Osmania University, Hyderabad, India*** June 2014 - May 2014
+- Installed Citirx XenServer and Apache CloudStack in Ubuntu system to implement Hadoop in virtual system.
+- Developed Java code by implemented MapReduce functionality and monitored virtual clusters performance.
+
 ### SKILLS
-- Acquired knowledge in JAVA, Python.                                    - Experienced in Spring, RESTful, Hibernate.
-- Learnt SQL, JavaScript (NodeJS).                                       - Teaching C++ and Object-Oriented Application Programming.
-- Trained in PostgreSQL, Oracle.                                         - GIT, SVN, JMS, Maven and Jenkins.
-- OpenCV, scikit-lean, tensorFlow, numpy.                                - AngularJS2, Typescript, CSS, jQuery
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kiranburra92/kiranburra92.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Acquired knowledge in JAVA, Python.
+- Experienced in Spring, RESTful, Hibernate.
+- Learnt SQL, JavaScript (NodeJS).
+- Teaching C++ and Object-Oriented Application Programming.
+- Trained in PostgreSQL, Oracle.
+- GIT, SVN, JMS, Maven and Jenkins.
+- OpenCV, scikit-lean, tensorFlow, numpy.
+- AngularJS2, Typescript, CSS, jQuery
