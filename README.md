@@ -50,8 +50,7 @@ visualization.
 - Developed Java code by implemented MapReduce functionality and monitored virtual clusters performance.
 
 ### SKILLS
-- Acquired knowledge in JAVA, Python.
-- Experienced in Spring, RESTful, Hibernate.
+- Acquired knowledge in JAVA, Python. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Experienced in Spring, RESTful, Hibernate.
 - Learnt SQL, JavaScript (NodeJS).
 - Teaching C++ and Object-Oriented Application Programming.
 - Trained in PostgreSQL, Oracle.
