@@ -7,16 +7,16 @@ Highly skilled software development professional bringing more than **3 years** 
 - **Master of Science: Computer Science, GPA: 3.6/4.0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May 2018** <br />
 University of Houston-Houston, Texas
 
-- **Bachelor of Engineering: Information Technology, GPA: 3.7/4.0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May 2014** <br />
+- **Bachelor of Engineering: Information Technology, GPA: 3.7/4.0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May 2014** <br />
 Osmania University - Hyderabad, India
 
 ### EXPERIENCE
 
-**Teaching Assistant - University of Houston – Houston, USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  March 2017 to present**
+**Teaching Assistant - University of Houston – Houston, USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; March 2017 to present**
 - Designing and grading the assignments in Introduction to **C++**, Unix and **Object-oriented application programming** using C++ courses along with faculty.
 - Actively participated in object-oriented programming research.
 
-**Software Engineering Intern - NetIQ, Micro Focus – Houston, USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  May 2017 to August 2017**
+**Software Engineering Intern - NetIQ, Micro Focus – Houston, USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May 2017 to August 2017**
 - Converted **PostgreSQL** queries to run efficiently on **Oracle** database and improved query performance.
 - Involved in creating Business Intelligence tools to streamline the **database report** development process and add functionality, using a custom **JavaScript** tool that accepted JSON and outputs XML report display.
 - Used **selenium** for testing the access management webpage and using java and JavaScript.
