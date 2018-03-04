@@ -4,10 +4,10 @@ Highly skilled software development professional bringing more than **3 years** 
 
 ### Education
 
-- **Master of Science: Computer Science, GPA: 3.6/4.0              &nbsp;&nbsp;&nbsp;&nbsp; May 2018** <br />
+- **Master of Science: Computer Science, GPA: 3.6/4.0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2018** <br />
 University of Houston-Houston, Texas
 
-- **Bachelor of Engineering: Information Technology, GPA: 3.7/4.0  &nbsp;&nbsp;&nbsp;&nbsp; May 2014** <br />
+- **Bachelor of Engineering: Information Technology, GPA: 3.7/4.0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2014** <br />
 Osmania University - Hyderabad, India
 
 ### EXPERIENCE
