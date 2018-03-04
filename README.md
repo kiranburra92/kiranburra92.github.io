@@ -39,6 +39,9 @@ loosely coupled manner by operating interface programming.
 - Used socket programming to upload and download data to and from multiple servers by dividing data.
 - Implemented load balancing algorithm and server logs in Python and executed successfully.
 
+**Pattern Mining based on the Apriori Algorithm**                                               **January 2018 to May 2016**
+- Implemented Apriori Algorithm in Java for faster pattern mining using efficient data structures on amazon transaction Dataset.
+
 **Image Intensity Transformation using OpenCV, University of Houston**                          **August 2017 to December 2017**
 - Modify the image intensities for better visualization using python and OpenCV.
 - Applied all the transformations like power-Law, log, histogram matching and equalization on images to improve
@@ -50,7 +53,8 @@ visualization.
 - Developed Java code by implemented MapReduce functionality and monitored virtual clusters performance.
 
 ### SKILLS
-- Acquired knowledge in JAVA, Python. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Experienced in Spring, RESTful, Hibernate.
+- Acquired knowledge in JAVA, Python.
+- Experienced in Spring, RESTful, Hibernate.
 - Learnt SQL, JavaScript (NodeJS).
 - Teaching C++ and Object-Oriented Application Programming.
 - Trained in PostgreSQL, Oracle.
